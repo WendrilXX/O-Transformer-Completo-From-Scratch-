@@ -420,9 +420,3 @@ Todos os conceitos foram verificados e o modelo foi testado com sucesso.
    - Alternativa ao Batch Norm para RNNs/Transformers
    - Link: https://arxiv.org/abs/1607.06450
 
----
-
-## Autor
-
-Laboratorio de Processamento de Linguagem Natural (NLP)
-Disciplina: Deep Learning - Transformers from Scratch
