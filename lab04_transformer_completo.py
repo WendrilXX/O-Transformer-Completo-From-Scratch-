@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+ # -*- coding: utf-8 -*-
 """
 LABORATÓRIO 04: O TRANSFORMER COMPLETO "FROM SCRATCH"
 =====================================================
