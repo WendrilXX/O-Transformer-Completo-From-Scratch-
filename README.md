@@ -422,26 +422,7 @@ Todos os conceitos foram verificados e o modelo foi testado com sucesso.
 
 ---
 
-## Checklist de Entrega
-
-- [x] Codigo implementado em Python/NumPy
-- [x] Encoder com 6 camadas (teste com 2)
-- [x] Decoder com Masked Self-Attention
-- [x] Cross-Attention Encoder-Decoder
-- [x] Loop Autoregressivo funcional
-- [x] Teste com toy sequence
-- [x] README.md documentado
-- [x] Git commit com tag v1.0
-- [x] Nota sobre IA incluida
-
----
-
 ## Autor
 
 Laboratorio de Processamento de Linguagem Natural (NLP)
 Disciplina: Deep Learning - Transformers from Scratch
-Data: Marco 2026
-
----
-
-Status: CONCLUIDO E TESTADO
